@@ -20,13 +20,13 @@ const Header = () => {
             <li>
               <img src="/logo.png" alt="icon" />
             </li>
-            <li>Informasi</li>
+            <li><Link to={'/'}>Informasi</Link></li>
             <li>Cleaning</li>
             <li>Insurance</li>
           </ul>
           <ul className="header__layer-2__right">
             <li>
-              <Link to={"/login"}><OutlineButton label="Masuk" className="outline-button" /></Link>
+              <Link to={'/login'}><OutlineButton label="Masuk" className="outline-button" /></Link>
             </li>
             <li>
               <Link to={"/register"}><TextButton label="Register" className="text-button" /></Link>

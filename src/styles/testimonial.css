@@ -4,7 +4,7 @@
 }
 
 .testimonial > h2 {
-    margin-bottom: 1rem;
+    margin-bottom: rem;
 }
 
 .testimonial > p {
@@ -23,6 +23,10 @@
 .testimonial__card > p {
     width: 50%;
     line-height: 1.5rem;
+}
+
+.testimonial__card__user > h3 {
+    margin: 0.5rem 0;
 }
 
 .testimonial__card__user > img {

@@ -4,14 +4,19 @@
 }
 
 .hero__left {
+    padding-top: 2.5rem;
     width: 40%;
-    padding-top: 50px;
 }
 
 .hero__left > p {
     margin: 1rem 0;
     width: 80%;
     line-height: 1.5rem;
+}
+
+.hero__left > a > .text-button {
+    position: relative;
+    left: 25%;
 }
 
 .hero__right {
