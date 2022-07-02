@@ -13,7 +13,7 @@ const Hero = () => {
         <TextButton className="text-button" label="Register" />
       </div>
       <div className="hero__right">
-        <img src="/logo besar.png" alt="icon" />
+        <img src="/logo new.png" alt="icon" />
       </div>
     </div>
   )

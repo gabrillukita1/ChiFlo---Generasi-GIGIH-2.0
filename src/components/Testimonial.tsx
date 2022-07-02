@@ -19,7 +19,8 @@ const Testimonial = () => {
       >
         <div className="testimonial__card">
           <div className="testimonial__card__user">
-            <img src="/favicon.ico" />
+            <img src="/rahma.png
+            " />
             <p>Soni Supriadi</p>
             <p>Pengguna Jasa Kebersihan</p>
           </div>
@@ -31,7 +32,7 @@ const Testimonial = () => {
         </div>
         <div className="testimonial__card">
           <div className="testimonial__card__user">
-            <img src="/favicon.ico" />
+            <img src="/mawar.png" />
             <p>Si Mawar</p>
             <p>Direktur PT X</p>
           </div>

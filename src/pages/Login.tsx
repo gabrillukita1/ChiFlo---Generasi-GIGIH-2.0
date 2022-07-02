@@ -32,7 +32,7 @@ const Login = () => {
       <Header />
       <div className="login">
         <div className="login__left">
-          <img src="/favicon.ico" alt="icon" />
+          <img src="/logologin.png" alt="icon" />
         </div>
         <div className="login__right">
           <h1>Masuk</h1>

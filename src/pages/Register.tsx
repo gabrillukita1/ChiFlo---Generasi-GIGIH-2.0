@@ -43,7 +43,7 @@ const Register = () => {
         })}
         <div className="register__wrapper">
           <div className="register__left">
-            <img src="/favicon.ico" alt="icon" />
+            <img src="/logologin.png" alt="icon" />
           </div>
           <div className="register__right">
             <label htmlFor="username">Username</label>

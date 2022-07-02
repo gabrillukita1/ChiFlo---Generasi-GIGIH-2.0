@@ -1,6 +1,6 @@
 import OutlineButton from "./OutlineButton"
 import TextButton from "./TextButton"
-import { useLocation } from "react-router-dom"
+import { Link, useLocation } from "react-router-dom"
 const Header = () => {
   const location = useLocation()
 
@@ -26,10 +26,10 @@ const Header = () => {
           </ul>
           <ul className="header__layer-2__right">
             <li>
-              <OutlineButton label="Masuk" className="outline-button" />
+              <Link to={"/login"}><OutlineButton label="Masuk" className="outline-button" /></Link>
             </li>
             <li>
-              <TextButton label="Register" className="text-button" />
+              <Link to={"/register"}><TextButton label="Register" className="text-button" /></Link>
             </li>
           </ul>
         </div>
