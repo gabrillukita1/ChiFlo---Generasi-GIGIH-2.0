@@ -1,0 +1,25 @@
+.service {
+    margin: 2rem 0;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+
+.service > h2 {
+    margin-bottom: 1rem;
+    text-align: center;
+}
+
+.service__wrapper {
+    display: flex;
+    justify-content: space-between;
+}
+
+.service__item {
+    width: 15%;
+    display: flex;
+    flex-direction: column;
+}
+
+.service__item > p {
+    text-align: center;
+}
