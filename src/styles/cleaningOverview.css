@@ -1,0 +1,36 @@
+.container {
+    display: flex;
+    justify-content: space-between;
+    margin-left: 8%;
+    flex-wrap: wrap;
+}
+
+.leftSide{
+    padding-top: 2.5rem;
+    width: 40%;
+}
+
+.leftSide p{
+    padding-top: 1rem;
+    line-height: 36px;
+    color: rgba(167, 169, 172, 1);
+}
+
+.rightSide{
+    padding-top: 2.5rem;
+    width: 40%;
+}
+.rightSide img {
+    width: 350px;
+    height: 350px;
+}
+
+.line img{
+    float: right;
+    margin-top: 3rem;
+    width: 60%
+}
+
+.orange_text{
+    color: rgba(247, 146, 28, 1);
+}
