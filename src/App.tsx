@@ -7,13 +7,12 @@ import Register from "./pages/Register"
 function App() {
   return (
     <>
-      {/* <Routes>
+      <Routes>
         <Route path="/" element={<Home />} />
         <Route path="/login" element={<Login />} />
         <Route path="/register" element={<Register />} />
-      </Routes> */}
-
-      <Cleaning />
+        <Route path="/cleaning" element={<Cleaning />} />
+      </Routes>
     </>
   )
 }
