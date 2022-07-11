@@ -27,6 +27,7 @@
 @import "./schedule.css";
 @import "./cleaningOverview.css";
 @import "./cleaningService.css";
+@import "./insurance.css";
 
 * {
   margin: 0;

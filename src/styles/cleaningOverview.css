@@ -1,6 +1,6 @@
 .container {
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
     margin-left: 8%;
     flex-wrap: wrap;
 }
@@ -33,4 +33,17 @@
 
 .orange_text{
     color: rgba(247, 146, 28, 1);
+}
+
+.insurance_container {
+    margin-left: 4%;
+}
+
+.insurance_desc {
+    align-self: center;
+}
+
+.insurance_img img{
+    width: 500px;
+    align-self: flex-start;
 }

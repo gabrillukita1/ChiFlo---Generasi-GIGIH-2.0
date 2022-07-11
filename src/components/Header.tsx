@@ -21,8 +21,8 @@ const Header = () => {
               <img src="/logo.png" alt="icon" />
             </li>
             <li><Link to={'/'}>Informasi</Link></li>
-            <li>Cleaning</li>
-            <li>Insurance</li>
+            <li><Link to={'/cleaning'}>Cleaning</Link></li>
+            <li><Link to={'/insurance'}>Insurance</Link></li>
           </ul>
           <ul className="header__layer-2__right">
             <li>
