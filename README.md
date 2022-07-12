@@ -1,6 +1,6 @@
 # Disaster Management Chi-Flo (Checking Flood)
 ChiFlo is a disaster management application that can provide information about flooding around the user's location. In addition, ChiFlo has another business model, namely Property and Vehicle Insurance from various disasters. Another business model is Home and Property Cleaning Services, we specialize in post-flood cleaning.
-![logo](./public/logo_besar.png)
+![logologin](./public/logologin.png)
 ![sshome](./public/sshome.png)
 
 ## Feature
