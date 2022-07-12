@@ -1,7 +1,7 @@
 const Services = () => {
   return (
     <div className="service">
-      <h2>Layanan yang diberikan ChiFlo</h2>
+      <h2>Layanan yang diberikan <span className="orange_text">ChiFlo</span></h2>
       <div className="service__wrapper">
         <div className="service__item">
           <img src="/service-1.png" alt="icon" />

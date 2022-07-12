@@ -4,14 +4,15 @@
 }
 
 .hero__left {
+    margin-left: 10rem;
     padding-top: 2.5rem;
     width: 40%;
 }
 
 .hero__left > p {
-    margin: 1rem 0;
     width: 80%;
     line-height: 1.5rem;
+    align-self: flex-end;
 }
 
 .hero__left > a > .text-button {

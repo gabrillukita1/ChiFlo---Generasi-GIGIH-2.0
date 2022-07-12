@@ -27,10 +27,8 @@
 @import "./schedule.css";
 @import "./cleaningOverview.css";
 @import "./cleaningService.css";
-<<<<<<< Updated upstream
 @import "./insurance.css";
-=======
->>>>>>> Stashed changes
+@import "./orderform.css";
 
 * {
   margin: 0;

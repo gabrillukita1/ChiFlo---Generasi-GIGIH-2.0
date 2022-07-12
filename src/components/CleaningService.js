@@ -12,7 +12,7 @@ const CleaningService = () => {
                         <p>Mulai dari 500rb</p>
                         <img src="/HouseClean.png" alt="" />
                         <br/>
-                        <Link to={'/register'}><TextButton className="text-button" label="Pesan" /></Link>
+                        <Link to={'/pesan'}><TextButton className="text-button" label="Pesan" /></Link>
                     </div>
 
                     <div className="cleaningService">
@@ -20,7 +20,7 @@ const CleaningService = () => {
                         <p>Mulai dari 500rb</p>
                         <img src="/PropertiClean.png" alt="" />
                         <br/>
-                        <Link to={'/register'}><TextButton className="text-button" label="Pesan" /></Link>
+                        <Link to={'/pesan'}><TextButton className="text-button" label="Pesan" /></Link>
                     </div>
 
                     <div className="cleaningService">
@@ -28,7 +28,7 @@ const CleaningService = () => {
                         <p>Mulai dari 500rb</p>
                         <img src="/CarClan.png" alt="" />
                         <br/>
-                        <Link to={'/register'}><TextButton className="text-button" label="Pesan" /></Link>
+                        <Link to={'/pesan'}><TextButton className="text-button" label="Pesan" /></Link>
                     </div>
                 </div>
             </div>
@@ -46,7 +46,7 @@ const CleaningService = () => {
                         <p>Mulai dari 500rb</p>
                         <img src="/PropertiClean.png" alt="" />
                         <br/>
-                        <Link to={'/register'}><TextButton className="text-button" label="Pesan" /></Link>
+                        <Link to={'/pesan'}><TextButton className="text-button" label="Pesan" /></Link>
                     </div>
 
                     <div className="cleaningService">
@@ -54,7 +54,7 @@ const CleaningService = () => {
                         <p>Mulai dari 500rb</p>
                         <img src="/CarClan.png" alt="" />
                         <br/>
-                        <Link to={'/register'}><TextButton className="text-button" label="Pesan" /></Link>
+                        <Link to={'/pesan'}><TextButton className="text-button" label="Pesan" /></Link>
                     </div>
                 </div>
             </div>

@@ -5,13 +5,14 @@
 }
 
 .service > h2 {
-    margin-bottom: 1rem;
+    margin: 3rem 0;
     text-align: center;
 }
 
 .service__wrapper {
+    margin-bottom: 3rem;
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
 }
 
 .service__item {
@@ -21,5 +22,6 @@
 }
 
 .service__item > p {
+    margin-top: 1rem;
     text-align: center;
 }
