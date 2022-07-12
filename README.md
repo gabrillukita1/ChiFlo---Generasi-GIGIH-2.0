@@ -10,7 +10,10 @@ ChiFlo is a disaster management application that can provide information about f
 
 ## Powered by
 
+<<<<<<< HEAD
 - [Create React App](https://create-react-app.dev/) to initialize the project.
 - [React Redux](https://react-redux.js.org/) to manage the app state.
 - [Material-ui](https://mui.com/) to add Addbar and Avatar
 - Hosted on [Vercel](https://vercel.com/).
+=======
+

@@ -1,0 +1,32 @@
+.varian_container {
+    margin-top: 3rem;
+    margin-bottom: 6rem;
+}
+.listInsurance {
+    margin-top: 3rem;
+    display: flex;
+    justify-content: space-around;
+}
+.insurance{
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+    height: 200px;
+    text-align: center;
+    border-radius: 20px;
+    justify-content: center;
+}
+
+.insurance p {
+    margin-top: 1rem;
+    font-size: 12px;
+    line-height: 22px;
+}
+
+.greenBg{
+    background: linear-gradient(222.78deg, #DDDEAA -6.12%, rgba(217, 217, 217, 0) 153.42%);
+}
+
+.orangeBg{
+    background: linear-gradient(222.78deg, #F7921C -6.12%, rgba(217, 217, 217, 0) 153.42%);
+}
