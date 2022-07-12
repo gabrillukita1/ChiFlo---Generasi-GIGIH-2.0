@@ -1,0 +1,51 @@
+.cleanService_container{
+    display: flex;
+    margin-top: 3rem;
+    flex-direction: column;
+}
+
+.cleanService_bottom{
+    display: flex;
+    margin-top: 3rem;
+    flex-direction: column;
+    justify-content: center;
+    margin-bottom: 8rem;
+}
+
+.cleanService_top h2, .cleanService_bottom h2{
+    font-weight: 900;
+}
+
+.cleanService_bottom p{
+    width: 480px;
+    text-align: center;
+    align-self: center;
+    margin-top: 1rem;
+    color: rgba(167, 169, 172, 1);
+    line-height: 36px;
+}
+
+.cleaningServices{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.cleaningService{
+    margin-top: 3rem;
+    text-align: center;
+}
+
+.cleaningService img{
+    margin-bottom: 1rem;
+    width: 250px;
+}
+
+.cleaningService p{
+    font-size: 12px;
+    margin-bottom: 1rem;
+    color: rgba(180, 19, 34, 1);
+}
+
+.cleaningService h4{
+    font-weight: 700;
+}

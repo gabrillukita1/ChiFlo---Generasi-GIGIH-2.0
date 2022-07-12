@@ -1,0 +1,28 @@
+.outline-button {
+  padding: 0.5rem 1.5rem;
+  border-radius: 8px;
+  border: 1px solid var(--blue);
+  background-color: transparent;
+  color: var(--blue);
+  font-weight: bold;
+  cursor: pointer;
+}
+
+.text-button {
+    padding: 0.5rem 2.5rem;
+    border-radius: 8px;
+    background-color: var(--blue);
+    border: none;
+    color: white;
+    cursor: pointer;
+}
+
+.text-button-100 {
+  width: 100%;
+  padding: 0.5rem 2.5rem;
+  border-radius: 8px;
+  background-color: var(--blue);
+  border: none;
+  color: white;
+  cursor: pointer;
+}

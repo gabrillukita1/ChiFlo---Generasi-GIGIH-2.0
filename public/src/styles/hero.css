@@ -1,0 +1,30 @@
+.hero {
+    display: flex;
+    justify-content: space-between;
+}
+
+.hero__left {
+    margin-left: 10rem;
+    padding-top: 2.5rem;
+    width: 40%;
+}
+
+.hero__left > p {
+    width: 80%;
+    line-height: 1.5rem;
+    align-self: flex-end;
+}
+
+.hero__left > a > .text-button {
+    position: relative;
+    left: 25%;
+}
+
+.hero__right {
+    width: 50%;
+}
+
+.hero__right > img {
+    width: 100%;
+    height: 350px;
+}
